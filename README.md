@@ -1,7 +1,6 @@
 # Attendence
-# Pharmacy-Management-System
 
-# Installation
+## Installation
  Follow these steps to install the application.
 1. Clone the Repository
 ```
